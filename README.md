@@ -1,8 +1,13 @@
+
 ```
 npm install laravel-mix --save-dev 
 ```
 ```
 composer require barryvdh/laravel-debugbar --dev 
+```
+## Database MSQL 
+```
+php artisan migrate 
 ```
 ## Create user login admin panel. 
 ```
